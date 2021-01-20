@@ -1,0 +1,7 @@
+{
+  "name": "appPhaserIon",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
